@@ -152,7 +152,7 @@
           <mxGeometry x="1290" y="394.36" width="30" height="55.72" as="geometry" />
         </mxCell>
         <mxCell id="faOAmVlxSU6uXnbHQdMJ-102" value="ETL (Extracción &lt;br&gt;transformación y carga de datos)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="673.62" y="161" width="100" height="40" as="geometry" />
+          <mxGeometry x="672.62" y="161" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
